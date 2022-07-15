@@ -1,8 +1,6 @@
 - 👋 Hello, I’m @TheDataCode
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on various projects that could have impact on the world
-- 📫 kindly reach me on zm16043@gmail.com
+- 💞️ let's discuss Data science
+- 📫 
 
 <!---
 TheDataCode/TheDataCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
